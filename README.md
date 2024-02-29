@@ -1,2 +1,0 @@
-# motoko_playground
-calculator
